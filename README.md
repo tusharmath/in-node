@@ -28,7 +28,7 @@ yarn add in-node
 # Usage
 
 ```ts
-import {inNode} from 'in-node`
+import {inNode} from 'in-node'
 
 if(isNode) {
   process.exit(1)
