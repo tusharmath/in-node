@@ -30,7 +30,7 @@ yarn add in-node
 ```ts
 import {inNode} from 'in-node'
 
-if(isNode) {
+if (isNode) {
   process.exit(1)
 }
 ```
